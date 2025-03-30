@@ -14,7 +14,7 @@ Além disso, a ausência de um sistema centralizado para distribuição de taref
 
 Diante desse cenário, a carência de uma solução acessível, intuitiva e eficaz para a gestão de equipes e projetos compromete a organização do trabalhp e a performance dos times. A inexistência de uma ferramenta prática para a definição de tarefas, acompanhamento de progresso e a integração dos membros da equipe resulta em ineficiência operacional e dificulta na coordençaão de atividades coletivas.
 
-# Objetivoa
+# Objetivos
 
 ## Objetivo Geral
 
@@ -29,9 +29,9 @@ Desenvolver um aplicativo mobile de gestão de equipes que otimize a organizaç�
 
 # Justificativa
 
-A gestão eficiente de equipes é essencial apra aumentar a produtividade, melhorar a comunicação e garantir o cumprimento de prazos e projetos. No entanto, muitas organizações e grupos enfrentam dificuldadesna organização de tarefas e no acompanhamento do progresso das atividades devido à falta de ferramentas adequadas e acessíveis.
+A gestão eficiente de equipes é essencial apra aumentar a produtividade, melhorar a comunicação e garantir o cumprimento de prazos e projetos. No entanto, muitas organizações e grupos enfrentam dificuldades 7 na organização de tarefas e no acompanhamento do progresso das atividades devido à falta de ferramentas adequadas e acessíveis.
 
-O desenvolvimento do **Summit** surge como uma resposta a essa necessidade, proporcionando uma plataforma integrada para o gerenciamento de times, atribuição de tarefas e monitoramento de desempenho. D e acordo com um estudo da McKinsey (2022), equipes que utilizam sistemas de gerenciamento de trabalho conseguem melhorar sua produtividade em até 25%, evidenciando o impacto positivo da tecnologia na otimização de processos colaborativos.
+O desenvolvimento do **Summit** surge como uma resposta a essa necessidade, proporcionando uma plataforma integrada para o gerenciamento de times, atribuição de tarefas e monitoramento de desempenho. D  acordo com um estudo da McKinsey (2022), equipes que utilizam sistemas de gerenciamento de trabalho conseguem melhorar sua produtividade em até 25%, evidenciando o impacto positivo da tecnologia na otimização de processos colaborativos.
 
 Além disso, pesquisas indicam que 86% dos funcionários e gestores acreditam que fahas na comunicação e na organização interna são os principais fatores que prejudicam a eficiência do trabalho em equipe (Harvard Business Review, 2021). Diante desse cenário, o **Summit** se destaca ao  oferecer funcionalidades intuitivas que permitem a estruturação clara das atividades, a delegação de responsabilidades e a manutenção de um fluxo de trabalho eficiente.
 
@@ -43,6 +43,6 @@ O **Summit** será destinado a:
 - **Líderes e gestores de equipe**, que precisam organizar tarefas, acompanhar o progresso de projetos e garantir a produtividade do time;
 - **Empresas de pequeno e médio porte**, que frequentemente colaboram em projetos com outros profissionais e necessitam de um sistema eficiente para dividir tarefas e prazos;
 - **Grupos de estudo e organizações acadêmicas**, que precisam estrututar atividades, definir responsabilidades e coordenar projetos em equipe.
-- **Times voluntários e ONGs, que trabalham de forma colaborativa e precisam de uma plataforma clara e acessível para gerenciar demandas e distribuir funções.
+- **Times voluntários e ONGs**, que trabalham de forma colaborativa e precisam de uma plataforma clara e acessível para gerenciar demandas e distribuir funções.
 
  O **Summit** será desenvolvido com um design intuitivo e acessível para atender a diferentes perfis de usuários, promovendo uma gestão de equipe eficiente e incentivando boas práticas na organização do trabalho.
