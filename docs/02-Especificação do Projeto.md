@@ -59,5 +59,20 @@ A definição do problema foi dado pelo antropologia, uma técnica de observaç�
 |Pedro Santos| Ter uma visão clara do progresso das sprints | Acompanhar e gerenciar a evolução do software|
 
 
+## Modelagem de Processo de Negócio - Wally
+
+### Análise da Situação Atual
+
+A gestão eficiente de quipes e projetos é um desafio constante para empresas e profissionais que buscam alta produtividade e organização. Muitas equipes ainda enfrentam dificuldades na comunicação, na distribuição de tarefas e no acompanhamento de entregas, o que impacta diretamente na performance e nos resultados.
+
+Os principais problemas identificados incluem:
+- **Falta de centralização:** As informações e tarefas ficam dispersas em diferentes canais e ferramentas, dificultando o acompanhamento.
+- **Baixa visibilidade do progresso:** Gestores e equipes têm dificuldade em mensurar a evolução dos projetos em tempo real.
+- **Comunicação fragmentada:** O uso excessivo de e-mails, mensagens e reuniões desorganizadas gera ruídos e perdas de tempo.
+- **Dificuldade na delegação de tarefas:**  Sem um sistema eficiente, definir responsabilidades e acompanhar execuções torna-se desafiador.
+- **Falta na automação:** Muitos processos operacionais são manuais, reduzindo a eficiência e aumentando a margem de erro.
+
+A necessidade de uma solução integrada e intuitiva se torna evidente, permitindo que times coçaborem de forma organizada, acompanhem seu desempenho e otimizem seu fluxo de trabalho com transparência e eficiência.
+
 
 
