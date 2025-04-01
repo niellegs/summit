@@ -78,4 +78,18 @@ A necessidade de uma solução integrada e intuitiva se torna evidente, permitin
 
 ![Flowchart](https://github.com/user-attachments/assets/d5be9436-f43f-49ed-8973-24996cb71f94)
 
+## Indicadores de Desempenho
+
+| Indicador                              | Descrição | Objetivo | Cálculo | Fonte de Dados | Perspectiva |
+|----------------------------------------|-----------|----------|---------|-----------------|-------------|
+| **Lucratividade**          | Quantidade de lucro gerado ao usuário | Avaliar a economia gerado aos usuários. | A diferença entre os recursos necessários antes e depois do gerenciamento de tarefas. | Base de dados do app | Financeiro |
+| **Produtividade**          | Nível de aproveitamento das tarefas entregues | A porcentagem de tarefas entregues dentro do prazo estabelecido. | Base de dados do app | Cliente |
+| **Qualidade**          | Insights de pontos para melhoria em um processo. | Aprimorar o processo a fim de obter resultados melhores de forma mensurável. | Quantidade de erros e acertos em cada medidor de produtividade | Base de dados do app | Cliente |
+| **Percentual de Satisfação dos Usuários**          | Percentual de usuários que avaliaram positivamente a aplicação baseado em pesquisas de feedback. | Medir o nível de aceitação de um aplicativo. | (Avaliações positivas / Total de avaliações) * 100  | Base de dados do app | Aprendizado e Crescimento |
+
+## Requisitos
+
+As tabelas a seguir apresentam uma descrição detalhada dos requisitos funcionais e não funcionais que definem o escopo do projeto:
+
+
 
