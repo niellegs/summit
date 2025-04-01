@@ -48,3 +48,16 @@ A definição do problema foi dado pelo antropologia, uma técnica de observaç�
 |Hobbies| Jogar videogames, cozinhar pratos diferentes.|
 
 ## Histórias de Usuários
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
+|Sabrina Almeida| Acompanhar o andamento das tarefas da minha equipe | Evitar retrabalhos e atrasos|
+|Camila Torres| Gerenciar demandas do meu time | Acompanhar quem tem mais tarefas e evitar sobrecarregar os membros do time|
+|João Martins| Acompanhar os principais indicadores de produtividade | Garantir  que meu time cumprirá as metas|
+|Renata Oliveira| Priorizar tarefas e gerenciar prazos | Entregar os projetos para seus clientes dentro do prazo|
+|Renata Oliveira| Organizar os meus projetos | Facilitar o desenvolvimento para diferentes clientes em paralelo|
+|Pedro Santos| Ter uma visão clara do progresso das sprints | Acompanhar e gerenciar a evolução do software|
+
+
+
+
