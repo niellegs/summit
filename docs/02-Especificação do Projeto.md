@@ -47,6 +47,8 @@ A definição do problema foi dado pelo antropologia, uma técnica de observaç�
 |Frustrações| Equipes trabalhando de formas isolada, falta de clareza nas demandas. |
 |Hobbies| Jogar videogames, cozinhar pratos diferentes.|
 
+</div>
+
 ## Histórias de Usuários
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
