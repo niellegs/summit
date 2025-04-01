@@ -76,5 +76,6 @@ Os principais problemas identificados incluem:
 
 A necessidade de uma solução integrada e intuitiva se torna evidente, permitindo que times coçaborem de forma organizada, acompanhem seu desempenho e otimizem seu fluxo de trabalho com transparência e eficiência.
 
+![Flowchart](https://github.com/user-attachments/assets/d5be9436-f43f-49ed-8973-24996cb71f94)
 
 
