@@ -61,7 +61,7 @@ A definição do problema foi dado pelo antropologia, uma técnica de observaç�
 |Pedro Santos| Ter uma visão clara do progresso das sprints | Acompanhar e gerenciar a evolução do software|
 
 
-## Modelagem de Processo de Negócio - Wally
+## Modelagem de Processo de Negócio - Summit
 
 ### Análise da Situação Atual
 
@@ -76,16 +76,33 @@ Os principais problemas identificados incluem:
 
 A necessidade de uma solução integrada e intuitiva se torna evidente, permitindo que times coçaborem de forma organizada, acompanhem seu desempenho e otimizem seu fluxo de trabalho com transparência e eficiência.
 
+### Descrição Geral da Proposta
+
+O Summit é uma plataforma inovadora para gerenciamento de times e projetos, focada em otimizar a comunicação, organização e produtividade das equipes. Ele permite que líderes e membros acompanhem tarefas, deleguem responsabilidades e visualizem o progresso em tempo real.
+
+Principais funcionalidades:
+- **Gestão de Tarefas**: Organização intuitiva de atividades com prazos e responsaveis.
+- **Colaboração em Equipe**: Comunicação integrada e compartilhamento de arquivos.
+- **Análises e Relatórios**: Painéis detalhados para acompanhamento de desempenho.
+- **Automação de Processos**: Redução de tarefas repetitivas para maior eficiência.
+
+O **Summit** se destaca por sua interface acessível e recursos adaptáveis, proporcionando um ambiente dinâmico para equipes de todos os tamanhos e setores.
+
+### Processo - Gestão de Tarefas e Equipes
+Oportunidade de melhoria:
+- Simplificação do registro de tarefas individuais ou em equipe.
+- Categorização automática de atividades e metas.
+- Melhor controle e acompanhamento do progresso dos projetos.
 ![Flowchart](https://github.com/user-attachments/assets/d5be9436-f43f-49ed-8973-24996cb71f94)
 
 ## Indicadores de Desempenho
 
 | Indicador                              | Descrição | Objetivo | Cálculo | Fonte de Dados | Perspectiva |
 |----------------------------------------|-----------|----------|---------|-----------------|-------------|
-| **Lucratividade**          | Quantidade de lucro gerado ao usuário | Avaliar a economia gerado aos usuários. | A diferença entre os recursos necessários antes e depois do gerenciamento de tarefas. | Base de dados do app | Financeiro |
-| **Produtividade**          | Nível de aproveitamento das tarefas entregues | A porcentagem de tarefas entregues dentro do prazo estabelecido. | Base de dados do app | Cliente |
-| **Qualidade**          | Insights de pontos para melhoria em um processo. | Aprimorar o processo a fim de obter resultados melhores de forma mensurável. | Quantidade de erros e acertos em cada medidor de produtividade | Base de dados do app | Cliente |
-| **Percentual de Satisfação dos Usuários**          | Percentual de usuários que avaliaram positivamente a aplicação baseado em pesquisas de feedback. | Medir o nível de aceitação de um aplicativo. | (Avaliações positivas / Total de avaliações) * 100  | Base de dados do app | Aprendizado e Crescimento |
+| **Eficiência Financeiraa**          | Redução de custos e otimização de recursos através do gerenciamento de tarefas. | Avaliar o impacto econômico do app na organização pessoa e de equipes. | (Recursos gastos antes - Recursos gastos depois) / Recursos gastos antes * 100) | Base de dados do app | Financeiro |
+| **Produtividade**          | Proporção de tarefas concluídas dentro do prazo em relação ao total de  tarefas atribuídas. | Medir a eficiência dos usuários no cumprimento de prazos. | Base de dados do app | Cliente |
+| **Qualidade do Gerenciamento de Tarefas**  | Avaliação da eficiência dos processos dentro do app, considerando retrabalho e otimização. | Melhorar os fluxos de trabalho e reduzir falhas no gerenciamento de tarefas. | (Tarefas reabertas ou corrigidas / Total de tarefas) * 100 | Base de dados do app | Cliente |
+| **Satisfação dos Usuários**          | Percentual de usuários que avaliaram positivamente a aplicação baseado em pesquisas de feedback. | Medir o nível de aceitação de um aplicativo. | (Avaliações positivas / Total de avaliações) * 100  | Base de dados do app | Aprendizado e Crescimento |
 
 ## Requisitos
 
