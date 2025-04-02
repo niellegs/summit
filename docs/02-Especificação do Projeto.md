@@ -113,12 +113,25 @@ As tabelas a seguir apresentam uma descrição detalhada dos requisitos funciona
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O aplicativo deve permitir que os usuários realizem login com e-mail ou ID usuário e senha. | ALTA |
+|RF-001| O aplicativo deve permitir que os usuários realizem login com e-mail ou ID de usuário e senha. | ALTA |
 |RF-002| O aplicativo deve permitir que os usuários realizem seu cadastro fornecendo nome, e-mail, ID de usuário e senha. | ALTA |
-|RF-003| O aplicativo deve permitir recuperação de senha. | ALTA |
-|RF-001| O aplicativo deve permitir que os usuários editem suas informações pessoais (foto de perfil, nome, e-mail, senha, usuário). | ALTA |
-|RF-001| O aplicativo deve permitir a criação, edição e remoção de times por administradores. | ALTA 
-|RF-001| O aplicativo deve permitir | ALTA ||
+|RF-003| O aplicativo deve permitir recuperação de senha. | MÉDIA |
+|RF-004| O aplicativo deve permitir que os usuários editem suas informações pessoais (foto de perfil, nome, e-mail, senha, usuário). | MÉDIA |
+|RF-005| O aplicativo deve permitir que administradores criem, editem e removam times. | ALTA 
+|RF-006| O aplicativo deve permitir que administradores criem, editem e removam tarefas dentro dos times.| ALTA ||
+|RF-007| O aplicativo deve permitir a adição e remoção de membros no time por administradores. | ALTA ||
+|RF-008| O aplicativo deve permitir que administradores gerenciem as tarefas e os membros pertencentes ao time| ALTA ||
+|RF-009| O aplicativo deve permitir que administradores atribuam tarefas a usuários comuns.| ALTA ||
+|RF-010| O aplicativo deve permitir que administradores concedam privilégios a usuários comuns. | MÉDIA ||
+|RF-011| O aplicativo deve permitir que usuários comuns visualizem as tarefas atribuídas a eles.| ALTA ||
+|RF-012| O aplicativo deve permitir que usuários comuns categorizem suas tarefas como "não iniciadas", "em progresso" ou "finalizadas".| ALTA ||
+|RF-013| O aplicativo deve permitir que usuários comuns adicionem comentários em suas tarefas.| BAIXA ||
+|RF-014| O aplicativo deve mostrar o progresso do projeto.| ALTA ||
+|RF-015| O aplicativo deve mostrar o progresso das sprints. | MÉDIA ||
+|RF-016| O aplicativo deve permitir a filtragem de tarefas por status, prioridade ou prazo. | BAIXA ||
+|RF-017| O aplicativo deve exibir, por padrão, tarefas mais importantes e com menor prazo. | ALTA ||
+|RF-018| O aplicativo deve ter um quadro Kanban para visualização de tarefas.| ALTA ||
+|RF-019| O aplicativo deve permitir a categorização das tarefas utilizando o método MoSCoW.| ALTA ||
 
 
 
