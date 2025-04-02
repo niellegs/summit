@@ -53,12 +53,12 @@ A definição do problema foi dado pelo antropologia, uma técnica de observaç�
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Sabrina Almeida| Acompanhar o andamento das tarefas da minha equipe | Evitar retrabalhos e atrasos|
-|Camila Torres| Gerenciar demandas do meu time | Acompanhar quem tem mais tarefas e evitar sobrecarregar os membros do time|
-|João Martins| Acompanhar os principais indicadores de produtividade | Garantir  que meu time cumprirá as metas|
-|Renata Oliveira| Priorizar tarefas e gerenciar prazos | Entregar os projetos para seus clientes dentro do prazo|
-|Renata Oliveira| Organizar os meus projetos | Facilitar o desenvolvimento para diferentes clientes em paralelo|
-|Pedro Santos| Ter uma visão clara do progresso das sprints | Acompanhar e gerenciar a evolução do software|
+|Sabrina Almeida| Acompanhar o andamento das tarefas da minha equipe em tempo real | Evitar retrabalhos o retrabalho e garantir que os prazos sejam cumpridos sem atrasos.|
+|Camila Torres| Distribuir  e gerenciar demandas do meu time de formma equilibrada | Evitar sobrecarga de trabalho e melhorar a eficiência da equipe.|
+|João Martins| Visualizar os principais indicadores de produtividade do time | Garantir  que meu a equipe esteja no caminho certo para cumprir as metas|
+|Renata Oliveira| Priorizar tarefas e gerenciar prazos automaticamente | Organizar minha rotina e entregar projetos dentro do prazo para os clientes|
+|Renata Oliveira| Ter um painel centralizado para organizar meus projetos | Trabalhar simultaneamente com diferentes clientes sem perder prazos ou detalhes|
+|Pedro Santos| Visualizar o progresso das sprints de forma clara e intutivo | Gerenciar o desenvolvimento do softwaree ajustar prioridades conforme necessário|
 
 
 ## Modelagem de Processo de Negócio - Summit
@@ -99,14 +99,27 @@ Oportunidade de melhoria:
 
 | Indicador                              | Descrição | Objetivo | Cálculo | Fonte de Dados | Perspectiva |
 |----------------------------------------|-----------|----------|---------|-----------------|-------------|
-| **Eficiência Financeiraa**          | Redução de custos e otimização de recursos através do gerenciamento de tarefas. | Avaliar o impacto econômico do app na organização pessoa e de equipes. | (Recursos gastos antes - Recursos gastos depois) / Recursos gastos antes * 100) | Base de dados do app | Financeiro |
+| **Eficiência Financeira**          | Redução de custos e otimização de recursos através do gerenciamento de tarefas. | Avaliar o impacto econômico do app na organização pessoa e de equipes. | (Recursos gastos antes - Recursos gastos depois) / Recursos gastos antes * 100) | Base de dados do app | Financeiro |
 | **Produtividade**          | Proporção de tarefas concluídas dentro do prazo em relação ao total de  tarefas atribuídas. | Medir a eficiência dos usuários no cumprimento de prazos. | Base de dados do app | Cliente |
 | **Qualidade do Gerenciamento de Tarefas**  | Avaliação da eficiência dos processos dentro do app, considerando retrabalho e otimização. | Melhorar os fluxos de trabalho e reduzir falhas no gerenciamento de tarefas. | (Tarefas reabertas ou corrigidas / Total de tarefas) * 100 | Base de dados do app | Cliente |
-| **Satisfação dos Usuários**          | Percentual de usuários que avaliaram positivamente a aplicação baseado em pesquisas de feedback. | Medir o nível de aceitação de um aplicativo. | (Avaliações positivas / Total de avaliações) * 100  | Base de dados do app | Aprendizado e Crescimento |
+| **Satisfação dos Usuários**          | Percentual de usuários que avaliaram positivamente a aplicação baseado em pesquisas de feedback. | Medir o nível de aceitação de um aplicativo e identificar pontos de melhoria. | (Avaliações positivas / Total de avaliações) * 100  | Base de dados do app | Aprendizado e Crescimento |
+| **Engajamento no Aplicativo**          | Tempo médio de uso diário de um app por usuário. | Avaliar o nível de adoção de um aplicativo. | Tempo total de uso do app / Número de usuários ativos  | Base de dados do app | Aprendizado e Crescimento |
 
 ## Requisitos
 
 As tabelas a seguir apresentam uma descrição detalhada dos requisitos funcionais e não funcionais que definem o escopo do projeto:
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| O aplicativo deve permitir que os usuários realizem login com e-mail ou ID usuário e senha. | ALTA |
+|RF-002| O aplicativo deve permitir que os usuários realizem seu cadastro fornecendo nome, e-mail, ID de usuário e senha. | ALTA |
+|RF-003| O aplicativo deve permitir recuperação de senha. | ALTA |
+|RF-001| O aplicativo deve permitir que os usuários editem suas informações pessoais (foto de perfil, nome, e-mail, senha, usuário). | ALTA |
+|RF-001| O aplicativo deve permitir a criação, edição e remoção de times por administradores. | ALTA 
+|RF-001| O aplicativo deve permitir | ALTA ||
+
 
 
 
