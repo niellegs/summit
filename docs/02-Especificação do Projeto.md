@@ -134,5 +134,22 @@ As tabelas a seguir apresentam uma descrição detalhada dos requisitos funciona
 |RF-019| O aplicativo deve permitir a categorização das tarefas utilizando o método MoSCoW.| ALTA ||
 
 
+###  Requisitos Não Funcionais
 
-
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RNF-001| O aplicativo deve ter uma interface responsiva e intuitiva para ffarantir uma boa experiência do usuário. | ALTA |
+|RNF-002| O sistema deve estar disponível 99,5% do tempo para evitar interrupções no uso. | ALTA |
+|RNF-003| O tempo de resposta das ações do usuário não deve ultrapassar 2 segundos em 90% das requisições. | MÉDIA |
+|RNF-004| O aplicativo deve seguir os padrões de acessibilidade (WCAG) para garantir a usabilidade a todos os usuários. | ALTA |
+|RNF-005|  Os dados dos usuários devem ser armazenados de forma segura, seguindo a LGPD/GDPR para proteção de dados. | ALTA |
+|RNF-006| O aplicativo deve suportar pelo menor 10.000 usuários simultâneos sem degradação de desempenho. | ALTA |
+|RNF-007| O aplicativo deve ser compatível com os naveagdores **Chrome, Firefox, Edge e Safari**. | ALTA |
+|RNF-008| O aplicativo deve ser compatível com sistemas operacionais Android(10+) e iOS(13+). | ALTA |
+|RNF-009| O aplicativo deve ter um tempo máximo de recuperação em caso de falha (RTO) de **2 horas**. | MÉDIA |
+|RNF-010| O banco de dados deve ser escalável para suportar o crescimento da base de dados. | ALTA |
+|RNF-011| O sistema deve criptografar dados sensíveis usando **bcrypt** ou **Argon2**. | ALTA |
+|RNF-012| O sistema deve permitir login com autenticação de dois fatores (2FA). | MÉDIA |
+|RNF-013| O aplicativo deve seguir boas práticas de **Clean Code** e ser versionado no **Github/Gitlab**. | MÉDIA |
+|RNF-014| O sistema deve ter logs de auditoria para rastrear as atividades dos usuários administradores. | ALTA |
+|RNF-015| A API deve seguir o padrão RESTFUL e suportar GraphQL para maior flexibilidade. | MÉDIA |
