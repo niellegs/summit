@@ -186,3 +186,11 @@ As tabelas a seguir apresentam uma descrição detalhada dos requisitos funciona
 | **RF-018**          |        |        |        |        |        |   X    |        |        |        |        |   X    |   X    |   X    |        |        |   X    |   X    |        |   X    |
 | **RF-019**          |        |        |        |        |        |   X    |        |        |        |        |   X    |   X    |        |        |        |        |        |   X    |        |
 
+# Gerenciamento de Projeto
+
+Para a realização do Summit. utiliza-se como base as diretrizes do **PMBoK v6** (Project Management Body of Knowledge), garantindo uma abordagem estruturada e eficiente no desenvolvimento da aplicação. O gerenciamento do projeto foi dividido em áreas essenciais, como **tempo**, **equipe** e **orçamento**, visando o sucesso na entrega do produto dentro do prazo, com qualidade e alinhado aos objetivos do time.
+- Agendar e coordenar tarefas de forma eficiente, evitando sobrecarga de trabalho.
+- Definir prazos e marcos do projeto, garantindo que cada fase seja concluída dentro do tempo estipulado.
+- Monitorar a evolução das atividades, permitindo ajustes caso ocorram atrasos ou imprevistos.
+
+Dessa forma, conseguimos garantir que o desenvolvimento do Summit ocorrerá de maneira organizada e dentro dos prazos estabelecidos.
