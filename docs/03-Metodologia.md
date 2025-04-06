@@ -47,7 +47,7 @@ Para facilitar a organização e o acompanhamento das atividades, será utilizad
 
 **Planejamento:**
 <br>
-A primeira etapa do projeto Wally envolveu a concepção, definição da proposta de solução e a estruturação inicial do projeto. O foco foi estabelecer a base documental e arquitetural, garantindo um direcionamento claro para o desenvolvimento da aplicação. Foram definidas as seguintes atividades:
+A primeira etapa do Summit envolveu a concepção, definição da proposta de solução e a estruturação inicial do projeto. O foco foi estabelecer a base documental e arquitetural, garantindo um direcionamento claro para o desenvolvimento da aplicação. Foram definidas as seguintes atividades:
 - Levantamento do problema e definição do escopo do projeto;
 - Identificação dos objetivos gerais e específicos;
 - Definição do público-alvo e justificativa do projeto;
@@ -72,7 +72,6 @@ Durante essa fase, a equipe estruturou toda a documentação de contexto e espec
 - Modelagem de processos de negócio finalizada (BPMN);
 - Primeiras versões dos diagramas UML e matriz de rastreabilidade concluídas;
 - Planejamento detalhado do gerenciamento do projeto, incluindo cronograma e divisão de papéis.
-<h4 align="center">Etapa 1:</h4>
 
 **Planejamento:**
 <br>
