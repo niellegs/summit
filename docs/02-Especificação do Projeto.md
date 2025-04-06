@@ -153,3 +153,36 @@ As tabelas a seguir apresentam uma descrição detalhada dos requisitos funciona
 |RNF-013| O aplicativo deve seguir boas práticas de **Clean Code** e ser versionado no **Github/Gitlab**. | MÉDIA |
 |RNF-014| O sistema deve ter logs de auditoria para rastrear as atividades dos usuários administradores. | ALTA |
 |RNF-015| A API deve seguir o padrão RESTFUL e suportar GraphQL para maior flexibilidade. | MÉDIA |
+
+## Diagrama de Casos de Uso
+
+![Use case diagram](https://github.com/user-attachments/assets/6951ae6c-147c-491e-b619-daae7d4bb943)
+
+<h4 align="center">FIGURA 02 - Diagrama de Casos de Uso</h4>
+
+## Matriz de Rastreabilidade
+
+### Matriz de Rastreabilidade
+
+| Relacionamento REQ. | RF-001 | RF-002 | RF-003 | RF-004 | RF-005 | RF-006 | RF-007 | RF-008 | RF-009 | RF-010 | RF-011 | RF-012 | RF-013 | RF-014 | RF-015 | RF-016 | RF-017 | RF-018 | RF-019 |
+|---------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| **RF-001**          |        |   X    |   X    |   X    |        |        |        |        |   X    |        |   X    |        |        |        |        |        |        |        |        |
+| **RF-002**          |        |        |   X    |   X    |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
+| **RF-003**          |   X    |   X    |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
+| **RF-004**          |   X    |   X    |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
+| **RF-005**          |        |        |        |        |        |   X    |   X    |   X    |        |        |        |        |        |        |        |        |        |        |        |
+| **RF-006**          |        |        |        |        |   X    |        |        |   X    |   X    |        |   X    |   X    |        |   X    |   X    |   X    |   X    |   X    |   X    |
+| **RF-007**          |        |        |        |        |   X    |        |        |   X    |        |        |        |        |        |        |        |        |        |        |        |
+| **RF-008**          |        |        |        |        |   X    |   X    |   X    |        |   X    |   X    |        |   X    |        |   X    |   X    |        |        |        |        |
+| **RF-009**          |   X    |        |        |        |        |   X    |        |   X    |        |        |   X    |   X    |   X    |        |        |        |        |        |        |
+| **RF-010**          |        |        |        |        |        |        |        |   X    |        |        |        |        |        |        |        |        |        |        |        |
+| **RF-011**          |   X    |        |        |        |        |   X    |        |   X    |   X    |        |        |   X    |   X    |   X    |   X    |   X    |   X    |   X    |   X    |
+| **RF-012**          |        |        |        |        |        |   X    |        |   X    |   X    |        |   X    |        |        |   X    |   X    |   X    |   X    |   X    |   X    |
+| **RF-013**          |        |        |        |        |        |        |        |        |   X    |        |   X    |   X    |        |        |        |        |        |   X    |        |
+| **RF-014**          |        |        |        |        |        |   X    |        |   X    |        |        |   X    |   X    |        |        |   X    |   X    |   X    |        |        |
+| **RF-015**          |        |        |        |        |        |   X    |        |   X    |        |        |   X    |   X    |        |   X    |        |   X    |   X    |        |        |
+| **RF-016**          |        |        |        |        |        |   X    |        |        |        |        |   X    |   X    |        |   X    |   X    |        |   X    |   X    |        |
+| **RF-017**          |        |        |        |        |        |   X    |        |        |        |        |   X    |   X    |        |   X    |   X    |   X    |        |   X    |        |
+| **RF-018**          |        |        |        |        |        |   X    |        |        |        |        |   X    |   X    |   X    |        |        |   X    |   X    |        |   X    |
+| **RF-019**          |        |        |        |        |        |   X    |        |        |        |        |   X    |   X    |        |        |        |        |        |   X    |        |
+
