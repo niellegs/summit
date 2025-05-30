@@ -12,6 +12,12 @@ export default ButtonEnter;
 
 const styles = StyleSheet.create({
     buttonContainer: {
+        display: "flex",
         backgroundColor: "#F7F7EE",
+        width: 35,
+        height: 35,
+        margin: 10,
+        justifyContent: "center",
+        alignItems: "center"
     }
 })
