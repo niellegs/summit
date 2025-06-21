@@ -4,8 +4,10 @@ import {
   Image,
   Pressable,
   StyleSheet,
-  Linking
+  Linking,
+  Button
 } from "react-native";
+import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { useEvent } from "expo";
 import { useVideoPlayer, VideoView } from "expo-video";
 import Input from "./components/Input";
@@ -13,9 +15,19 @@ import ButtonEnter from "./components/ButtonEnter";
 import { useFonts, Ubuntu_400Regular } from "@expo-google-fonts/ubuntu";
 import { YesevaOne_400Regular } from "@expo-google-fonts/yeseva-one";
 
+
+type RootStackParamList = {
+  Home: undefined;
+  Register: undefined;
+};
+
+type Props = NativeStackScreenProps<RootStackParamList, 'Home'>;
+
 const videoSource = require("../assets/teste2.mp4");
 
-function HomeScreen() {
+
+
+function HomeScreen({ navigation }: Props) {
   const player = useVideoPlayer(videoSource, (player) => {
     player.loop = true;
     player.play();
@@ -39,6 +51,7 @@ function HomeScreen() {
           <View style={styles.secondInputContainer}>
             <Input placeholder="Senha"/>
             <ButtonEnter />
+            <Button title="teste" onPress={() => navigation.navigate('Register')}/>
           </View>
         </View>
       </View>
